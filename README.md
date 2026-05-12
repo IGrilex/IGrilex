@@ -1,25 +1,32 @@
-## About me
+# Hi, I'm Petru-Costin Zincenco 👋
 
-- 👋 Hi, I’m Petru. I'm a computer engineering student at [ACS UPB](https://acs.pub.ro/) currently in the second year.
-- 👀 I’m interested in expanding my knowledge on programming and systems engineering.  
-- 🌱 I am passionate about my code and value greatly code that is clean, reproductible and maintainable.
-- 💞️ I’m open to collaboration on any kind of project or opportunity
-- 📫 You can reach me by [email](mailto:pzincenco@gmail.com).
-- 🥾 Fun fact: I enjoy outdoors camping and fire cooking
+M.Sc. student bridging AI foundations and real-world robotics. First building and training models at Politehnica Bucharest, now applying that on actual robotic systems during my Erasmus year at the University of Twente.
 
+My main interest is **visual SLAM and semantic mapping** — not just localising a robot, but giving it a meaningful understanding of its environment, and eventually making it think.
 
-## 🔌 Technologies I use
+---
 
- - Git version control system (still learning! :D)
- - CMake toolchain for building C and C++ code
- - PHP (Symfony framework)
- - A touch of web development (HTML, JavaScript and CSS)
+## 🧠 Focus Areas
 
+**AI & Vision**
+- Deep Learning · Computer Vision · Visual SLAM · Real-time Perception
 
+**Robotics**
+- Embedded Systems · Autonomous Navigation · ROS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGrilex&layout=compact&theme=dark&hide_border=true)
+---
 
-<!---
-IGrilex/IGrilex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Tech Stack
+
+| | |
+|---|---|
+| **Frameworks** | PyTorch · TensorFlow · OpenCV · ROS |
+| **Languages** | Python · C/C++ · Bash |
+| **Tools** | Linux · Docker · Git · Jupyter |
+| **Hardware** | Raspberry Pi · Arduino · Turtlebot |
+
+---
+
+## 📬 Get in touch
+
+pzincenco@gmail.com
